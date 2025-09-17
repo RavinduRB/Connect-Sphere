@@ -1,6 +1,13 @@
 
 # ConnectSphere - A Professional Networking Platform
 
+
+
+https://github.com/user-attachments/assets/41ee73cf-c549-4a42-ba5e-7d4df2b3ecb1
+
+
+
+
 Welcome to ConnectSphere, a modern and functional clone of a professional networking platform. This application is built from the ground up using React, TypeScript, and Tailwind CSS to deliver a clean, responsive, and intuitive user experience. It simulates the core functionalities of platforms like LinkedIn, providing a robust foundation for a feature-rich social network.
 
 ## Core Features
@@ -21,10 +28,12 @@ ConnectSphere is packed with features that enable users to build their professio
 
 This project is designed to run seamlessly within its specific web-based development environment. There is no complex setup required.
 
-1.  **Load the Files:** Ensure all the provided project files (`index.html`, `index.tsx`, `App.tsx`, etc.) are present in the file structure.
-2.  **View the Preview:** The application will build and run automatically. The live preview will display the running ConnectSphere web app.
+**Prerequisites:**  Node.js
 
-No local installation of dependencies (like `npm install`) or manual start commands (like `npm start`) are necessary.
+1. Install dependencies:
+   `npm install`
+2. Run the app:
+   `npm run dev`
 
 ## Project Structure
 
